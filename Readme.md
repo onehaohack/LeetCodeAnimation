@@ -72,10 +72,10 @@
 | 187  | [重复的 DNA 序列](https://github.com/MisterBooo/LeetCodeAnimation/tree/master/notes/LeetCode第187号问题：重复的DNA序列.md) |   低 |                                                              |
 | 191  | [位1的个数](https://github.com/MisterBooo/LeetCodeAnimation/tree/master/notes/LeetCode第191号问题：位1的个数.md) |   低 |                                                              |
 | 199  | [二叉树的右视图](https://github.com/MisterBooo/LeetCodeAnimation/tree/master/notes/LeetCode第199号问题：二叉树的右视图.md) |   低 |                                                              |
-| 201  | [数字范围按位与](https://github.com/MisterBooo/LeetCodeAnimation/tree/master/notes/LeetCode第201号问题：数字范围按位与.md) |   低 |                                                              |
+| 201  | [数字范围按位与](https://github.com/MisterBooo/LeetCodeAnimation/tree/master/notes/LeetCode第201号问题：数字范围按位与.md) |   中 |                                                              |
 | 203  | [移除链表元素](https://github.com/MisterBooo/LeetCodeAnimation/tree/master/notes/LeetCode第203号问题：移除链表元素.md) |   低 |                                                              |
 | 206  | [反转链表](https://github.com/MisterBooo/LeetCodeAnimation/tree/master/notes/LeetCode第206号问题：反转链表.md) |   高 |                                                              |
-| 209  | [长度最小的子数组](https://github.com/MisterBooo/LeetCodeAnimation/tree/master/notes/LeetCode第209号问题：长度最小的子数组.md) |   低 |                                                              |
+| 209  | [长度最小的子数组](https://github.com/MisterBooo/LeetCodeAnimation/tree/master/notes/LeetCode第209号问题：长度最小的子数组.md) |   中 |                                                              |
 | 219  | [存在重复元素 II](https://github.com/MisterBooo/LeetCodeAnimation/tree/master/notes/LeetCode第219号问题：存在重复元素II.md) |   低 |                                                              |
 | 229  | [求众数II](https://mp.weixin.qq.com/s/ObO4eQbjp1s1g_WXPkjixQ) |   低 |                                                              |
 | 231  | [2的幂](https://github.com/MisterBooo/LeetCodeAnimation/tree/master/notes/LeetCode第231号问题：2的幂.md) |   低 |                                                              |
@@ -104,7 +104,7 @@
 | 739  | [每日温度](https://mp.weixin.qq.com/s/3kDSOHyd-qOw7apzj0Z9YQ) |   低 |                                                              |
 | 877  | [石子游戏](https://github.com/MisterBooo/LeetCodeAnimation/tree/master/notes/LeetCode第877号问题：石子游戏.md) |   低 |                                                              |
 | 1025 | [除数博弈](https://mp.weixin.qq.com/s/0u6z02QYj1OpAwf54k8-Dw) |   低 |                                                              |
-| 1099 | [小于 K 的两数之和](https://mp.weixin.qq.com/s/S6BbLeP_th_9JheNX7NN-w) |   中 |                                                              |
+| 1099 | [小于 K 的两数之和](https://mp.weixin.qq.com/s/S6BbLeP_th_9JheNX7NN-w) |   高 |                                                              |
 
 
 
